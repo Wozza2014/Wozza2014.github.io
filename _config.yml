@@ -1,4 +1,3 @@
 name: Hank Quinland, Horrible Cop
 markdown: kramdown
-baseurl: /PROJECT
-url: http://Wozza2014.github.io
+permalink: /blog/:year/:month/:day/:title
